@@ -18,7 +18,12 @@ Performing analysis on  kickstart data on uncover trents
   As per graph we can see that if goal is lees than $1000 then Successful' rate is 75%.and at middle some of starter around 25000-30000 are successful.
 
    ### Outcome based on Lunch data
- The most successful Kickstarter campaigns were started in May. On the other side, December isn't like a good time to launch a campaign.![kickstart image](C:/Users/viral/Desktop/Analysis%20Project/crowdfunding%20Analysis/kickstart%20image.jpg).
+   For Analysis I did plot data parenet category,Lunchdata and showed as a graph.
+ 
+ ![kickstart image](https://user-images.githubusercontent.com/65969608/84529525-3a8c2380-aca7-11ea-8478-e65ad162993d.jpg)
+ 
+ The most successful Kickstarter campaigns were started in May. On the other side, December isn't like a good time to launch a campaign.
+
 
 
 
