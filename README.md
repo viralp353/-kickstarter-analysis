@@ -1,11 +1,19 @@
 # kickstart analysis
 Performing analysis on  kickstart data on uncover trents
+
+
 ### On Analysis Parent category statistics
- 525 theater were successful in Us. Music were second highest suceessful come in all.![parent category statics.png
-](C:/Users/viral/Desktop/Analysis%20Project/crowdfunding%20Analysis/parent%20category%20statics.png).
+
+![parent category statics](https://user-images.githubusercontent.com/65969608/84530051-1b41c600-aca8-11ea-86a3-4bc399f9573a.png)
+
+ 525 theater were successful in Us. Music were second highest suceessful come in all.
 
  ### On Analysis on Subcategory statistics.
- I  found that while there is only a total of  694 Kickstarter campaigns for play. the play category is the most successful.![subcategory statics](C:/Users/viral/Desktop/Analysis%20Project/crowdfunding%20Analysis/subcategory%20statics.png).
+ 
+![subcategory statics](https://user-images.githubusercontent.com/65969608/84530152-44625680-aca8-11ea-969c-3e5bd2388567.png)
+
+
+I  found that while there is only a total of  694 Kickstarter campaigns for play. the play category is the most successful.
 ## Challenge
 ### Outcomes Based on Goals
   To analysis data ,i did plot on 3 factors -successful,failed,canceled,
